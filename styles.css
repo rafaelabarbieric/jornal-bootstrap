@@ -1,0 +1,11 @@
+.nav-item > a{
+    color: black;
+}
+.container-fluid{
+    background-color: #CDBEAB;
+}
+.carousel{
+    
+    margin-top: 20px;
+    width: 40%;
+}
