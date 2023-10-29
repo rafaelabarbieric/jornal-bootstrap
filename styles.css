@@ -2,12 +2,8 @@
     font-family: "Arial Bold", Arial;
 }
 
-.nav-item > a{
+.nav-item > a{ 
     color: black;
-}
-
-.container-fluid{
-    background-color: #590202;
 }
 
 .carousel{
@@ -30,3 +26,8 @@
 .row{
     margin-bottom: 50px;
 }
+
+.text-center{
+    background-color: #598186;
+}
+
