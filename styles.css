@@ -1,11 +1,32 @@
+*{
+    font-family: "Arial Bold", Arial;
+}
+
 .nav-item > a{
     color: black;
 }
+
 .container-fluid{
-    background-color: #CDBEAB;
+    background-color: #590202;
 }
+
 .carousel{
-    
+    margin-bottom: 50px;
     margin-top: 20px;
     width: 40%;
+}
+
+.dados {
+    bottom: 10px;
+    right: 10px;
+}
+
+.text {
+    font-weight: 700;
+    font-size: 22px;
+    color: #ffffff ;
+}
+
+.row{
+    margin-bottom: 50px;
 }
